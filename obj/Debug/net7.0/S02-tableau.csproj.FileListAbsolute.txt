@@ -1,0 +1,15 @@
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-tableau/bin/Debug/net7.0/S02-tableau
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-tableau/bin/Debug/net7.0/S02-tableau.deps.json
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-tableau/bin/Debug/net7.0/S02-tableau.runtimeconfig.json
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-tableau/bin/Debug/net7.0/S02-tableau.dll
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-tableau/bin/Debug/net7.0/S02-tableau.pdb
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-tableau/obj/Debug/net7.0/S02-tableau.csproj.AssemblyReference.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-tableau/obj/Debug/net7.0/S02-tableau.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-tableau/obj/Debug/net7.0/S02-tableau.AssemblyInfoInputs.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-tableau/obj/Debug/net7.0/S02-tableau.AssemblyInfo.cs
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-tableau/obj/Debug/net7.0/S02-tableau.csproj.CoreCompileInputs.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-tableau/obj/Debug/net7.0/S02-tableau.dll
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-tableau/obj/Debug/net7.0/refint/S02-tableau.dll
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-tableau/obj/Debug/net7.0/S02-tableau.pdb
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-tableau/obj/Debug/net7.0/S02-tableau.genruntimeconfig.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-tableau/obj/Debug/net7.0/ref/S02-tableau.dll
